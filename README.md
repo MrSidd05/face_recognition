@@ -1,4 +1,4 @@
-#basic.ipynb😎
+#Basic.ipynb😎
 
 
 
@@ -17,7 +17,7 @@ Finally, the program waits for a key press before closing the windows.
 
 In summary, this code provides a basic implementation of face recognition by comparing the face encodings of a reference image and a test image. It showcases the essential steps involved in face recognition, including face detection, face encoding, face comparison, and result visualization.
 
-#realtime.ipynb😁
+#Realtime.ipynb😁
 
 
 
